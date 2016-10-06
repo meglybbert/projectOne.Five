@@ -1,3 +1,23 @@
+
+
+.main-header {
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;
+	background: #000000;
+	margin-bottom: 30px;
+}
+
+
+
+
+h1{
+    text-align: center; 
+    color: ffffff;
+    font-weight: 20 px;
+}
+
+
+
 html {
     background: #f6f4e6;
 }
