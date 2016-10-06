@@ -28,10 +28,10 @@ body {
     margin: 0 auto;
 }
 
-h4 {
-    text-align: center;
+h2 {
+    text-align: left;
     color: #000000;
-    font-weight: 600;
+    font-weight: 15;
     line-height: 1.3;
 }
 
