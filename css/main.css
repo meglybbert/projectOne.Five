@@ -59,6 +59,7 @@ img {
 img.food {
 	float: left;
 	padding-right: 0px;
+	padding-left: 12px;
 }
 
 a:link {
