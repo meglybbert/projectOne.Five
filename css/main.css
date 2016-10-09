@@ -6,6 +6,13 @@
 	margin-bottom: 30px;
 }
 
+div.content {
+	max-width: 600px;
+}
+	
+
+
+
 
 h1{
     text-align: center; 
