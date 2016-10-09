@@ -56,6 +56,10 @@ img {
     padding-left: 12px;
 }
 
+.food {
+	float: left;
+}
+
 a:link {
 	color: gold;
 }
