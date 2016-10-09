@@ -56,7 +56,7 @@ img {
     padding-left: 12px;
 }
 
-.food {
+img.food {
 	float: left;
 }
 
