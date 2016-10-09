@@ -6,6 +6,10 @@
 	margin-bottom: 30px;
 }
 
+html {
+	color: #ffffff;
+}
+
 body {
 	max-width: 600px;
 }
