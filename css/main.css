@@ -6,9 +6,7 @@
 	margin-bottom: 30px;
 }
 
-html {
-	color: #ffffff;
-}
+
 
 body {
 	max-width: 600px;
@@ -48,4 +46,8 @@ img {
     padding-right: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
+}
+
+html {
+	color: #ffffff;
 }
