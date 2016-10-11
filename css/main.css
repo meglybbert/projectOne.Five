@@ -62,8 +62,17 @@ a:visited {
 }
 
 /* BELOW THIS POINT COME THE MEDIA QUERIES */
-/* For Desktop */
+/* For Tablets */
+@media only screen and (min-width: 768px) {
 
-@media only screen and (min-width: ) {
+}
+
+/* For Desktop */
+@media only screen and (min-width: 1200px) {
+
+}
+
+/* For Widescreen */
+@media only screen and (min-width: 1920px) {
 
 }
