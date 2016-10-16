@@ -6,14 +6,6 @@
 	max-width: 100%;
 }
 
-.main-footer {
-	padding-top: 1.0em;
-	padding-bottom: 1.0em;
-	background: Gold;
-	margin-bottom: 30px;
-	max-width: 100%;
-}
-
 h1{
     text-align: center; 
     color: #ffffff;
@@ -47,7 +39,7 @@ img {
     padding-left: 12px;
 }
 
-img.food {
+.food {
 	float: left;
 	padding-left: 0px;
 	padding-right: 10px;
@@ -66,10 +58,59 @@ a:visited {
 @media only screen and (min-width: 1200px) {
 	body{
 		max-width: 1200px;
-		
 	}
+  
+  .personal {
+    float: none;
+    width: 100%;
+  }
 	
+  .aboutMe {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    max-width: 600px;
+  }
 
+  .book {
+    float: left;
+   }
+  
+  .summary{
+    float: none;
+  }
+  
+  .food{
+    float: none;
+    width: 360px;
+  }
+  
+  #meals{
+    width: 1120 px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #content-1 {
+	float: left;
+	width: 360px;
+  background: white;
 }
-
+  
+  #content-2 {
+	float: right;
+	width: 740px;
+}
+  
+  #content-2-1 {
+	float: left;
+	width: 360px;
+	background: white;
+}
+#content-2-2 {
+	float: right;
+	width: 360px;
+	background: white;
+}
+}
 
