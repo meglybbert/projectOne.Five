@@ -62,8 +62,12 @@ a:visited {
   
   .personal {
     float: none;
-    width: 100%;
-  }
+    max-width: 100%;
+    max-height: 100%;
+    padding-right: 0px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+ }
 	
   .aboutMe {
     margin-left: auto;
@@ -74,15 +78,21 @@ a:visited {
 
   .book {
     float: left;
-   }
-  
+    max-width: 10%;
+    max-height: 10%;
+    padding-right: 2.5%;
+    padding-bottom: 0px;
+    padding-left: 0px;
+  }
+
   .summary{
     float: none;
   }
   
   .food{
     float: none;
-    width: 360px;
+    width: 100%;
+    max-height: 360px;
   }
   
   #meals{
@@ -94,23 +104,25 @@ a:visited {
   #content-1 {
 	float: left;
 	width: 360px;
-  background: white;
-}
+  	background: white;
+  }
   
   #content-2 {
 	float: right;
 	width: 740px;
-}
+  }
   
   #content-2-1 {
 	float: left;
 	width: 360px;
 	background: white;
-}
-#content-2-2 {
+  }
+  
+  #content-2-2 {
 	float: right;
 	width: 360px;
 	background: white;
+  }
 }
-}
+
 
